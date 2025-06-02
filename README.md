@@ -1,36 +1,113 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
+  <img src="https://yourdomain.com/logo-solenna.png" alt="Logo Solènna" width="180" />
+  <h1>🌸 Solènna</h1>
+  <h3>La mutuelle pensée pour les vies avec maladies chroniques</h3>
+  <p>Se soigner autrement. Vivre pleinement.</p>
+</div>
 
-## Getting Started
+---
 
-First, run the development server:
+## 🌿 Présentation
+
+**Solènna** est une mutuelle inclusive et solidaire dédiée aux personnes vivant avec une **maladie chronique**, qu'elles soient femmes ou hommes.
+
+Nous construisons une **vraie mutuelle** qui prend en charge les soins conventionnels ET alternatifs (ostéo, naturopathie, etc.), tout en garantissant un accompagnement humain, éthique et personnalisé.
+
+---
+
+## 🎯 Mission
+
+- Rendre les soins accessibles à tous
+- Inclure la santé alternative dans les remboursements
+- Soutenir les personnes atteintes de maladies invisibles
+- Supprimer l’avance de frais dès que possible
+
+---
+
+## 💡 Ce que nous proposons
+
+### 💊 Soins classiques
+- Médecine générale et spécialisée
+- Imagerie médicale, hospitalisations
+- Gynécologie, urologie, traitements lourds
+
+### 🌿 Soins complémentaires remboursés
+- Ostéopathie, acupuncture, hypnose, nutrition
+- Psychothérapie, réflexologie, sophrologie
+- Suivi global corps-esprit
+
+---
+
+## 🧬 Public concerné
+
+- Personnes atteintes de maladies chroniques (endométriose, Crohn, SOPK, etc.)
+- Hommes et femmes souffrant de douleurs chroniques
+- Aidants et familles
+- Celles et ceux qui croient à une médecine plus intégrative
+
+---
+
+## 🤝 Nos valeurs
+
+- 💗 Humanité
+- 🌍 Inclusion
+- 🌿 Nature & science
+- 🧠 Éducation
+- 🤲 Communauté
+
+---
+
+## 🔗 Liens utiles
+
+- 🌐 Site : https://solenna.fr (prochainement)
+- 📷 Instagram : [@mutuellesolenna](https://instagram.com/mutuellesolenna)
+- 🎥 TikTok : [@mutuellesolenna](https://tiktok.com/@mutuellesolenna)
+- 📘 Facebook : [Solenna – Mutuelle santé](https://facebook.com/mutuellesolenna)
+
+---
+
+## 📫 Contact
+
+📧 contact@solenna.fr
+
+---
+
+<div align="center">
+  <strong>Solènna</strong> — Revivre mieux, se soigner librement 🌷
+</div>
+
+---
+
+# 👩‍💻 Pour les développeurs
+
+Nous développons une plateforme **web & mobile** pour :
+- La souscription des adhérents
+- Le suivi des remboursements
+- L’espace praticien
+- Un centre d'information autour des maladies chroniques
+
+---
+
+## 🧱 Stack technique 
+
+- **Frontend** : Next.js / React / Tailwind CSS  
+- **Backend** : Node.js + Express  
+- **Base de données** : PostgreSQL  
+- **Auth** : NextAuth & Firebase pour l'app mobile 
+- **Paiement** : Stripe  
+- **Infra** : Vercel / Railway / Supabase  
+
+---
+
+## 📦 Installation du projet
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+# Clone le repo
+git clone https://github.com/tonorganisation/solenna.git
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+cd solenna
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+# Installe les dépendances
+npm install
+# ou
+yarn install
