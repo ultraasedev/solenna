@@ -1,0 +1,182 @@
+{
+    "nav": {
+      "pathologies": "Conditions",
+      "pricing": "Pricing",
+      "simulator": "Calculator",
+      "partners": "Partners",
+      "contact": "Contact",
+      "joinSolena": "Join Solena"
+    },
+    "hero": {
+      "title": "The mutual insurance that",
+      "titleHighlight": "revolutionizes",
+      "titleEnd": "chronic healthcare",
+      "subtitle": "Complete mutual insurance + 100% coverage for your chronic conditions. Never advance payment again for endometriosis, diabetes, cardiovascular diseases.",
+      "stats": {
+        "patients": "Chronic patients in France",
+        "advance": "Advance payment",
+        "reimbursement": "To get reimbursed"
+      },
+      "cta": "Calculate my premium"
+    },
+    "pathologies": {
+      "title": "Covered Conditions",
+      "subtitle": "Specialized coverage for your chronic conditions plus complete mutual insurance",
+      "endometriosis": {
+        "title": "Endometriosis",
+        "description": "Specialized surgeries, ART, intensive gynecological follow-up",
+        "coverage": "€15,000/year"
+      },
+      "cardiovascular": {
+        "title": "Cardiovascular",
+        "description": "Cardiology, cardiac rehabilitation, specialized exams",
+        "coverage": "€12,000/year"
+      },
+      "diabetes": {
+        "title": "Diabetes",
+        "description": "Monitoring equipment, specialized consultations, podiatry",
+        "coverage": "€8,000/year"
+      },
+      "cancer": {
+        "title": "Cancer",
+        "description": "Oncology, chemotherapy, post-treatment follow-up",
+        "coverage": "€20,000/year"
+      },
+      "mentalHealth": {
+        "title": "Mental Health",
+        "description": "Psychotherapy, psychiatry, group therapies",
+        "coverage": "€6,000/year"
+      },
+      "chronic": {
+        "title": "Chronic Diseases",
+        "description": "Fibromyalgia, IBD, autoimmune diseases",
+        "coverage": "€10,000/year"
+      },
+      "covered": "Covered"
+    },
+    "pricing": {
+      "title": "Transparent and Fair Pricing",
+      "subtitle": "Premiums based on your income, complete coverage included",
+      "essential": {
+        "name": "Essential",
+        "price": "€60",
+        "period": "/month",
+        "features": [
+          "Complete mutual insurance (doctor, dental, optical)",
+          "24/7 teleconsultation",
+          "Universal third-party payment",
+          "Mobile application",
+          "Chat with health advisors"
+        ]
+      },
+      "comfort": {
+        "name": "Comfort",
+        "price": "€95",
+        "period": "/month",
+        "recommended": "RECOMMENDED",
+        "features": [
+          "Everything in Essential",
+          "Chronic pathology pack of choice",
+          "Alternative medicine (€500/year)",
+          "Private room",
+          "Personalized support"
+        ]
+      },
+      "premium": {
+        "name": "Premium",
+        "price": "€165",
+        "period": "/month",
+        "features": [
+          "Everything in Comfort",
+          "All pathology packs",
+          "Unlimited fee overruns",
+          "Health concierge",
+          "Nutrition/sports coaching"
+        ]
+      },
+      "cta": "Choose this plan"
+    },
+    "simulator": {
+      "title": "Calculate your personalized premium",
+      "subtitle": "Fair pricing based on your income and needs",
+      "income": {
+        "label": "Monthly net income",
+        "placeholder": "E.g. €2500"
+      },
+      "family": {
+        "label": "Family situation",
+        "single": "Single",
+        "couple": "Couple",
+        "family": "Family with children"
+      },
+      "pathology": {
+        "label": "Chronic condition (optional)",
+        "none": "No chronic condition",
+        "endometriosis": "Endometriosis",
+        "cardiovascular": "Cardiovascular diseases",
+        "diabetes": "Diabetes",
+        "cancer": "Cancer",
+        "mentalHealth": "Mental health",
+        "other": "Other chronic diseases"
+      },
+      "result": {
+        "title": "Your Solena premium",
+        "period": "/month",
+        "includes": "Complete mutual insurance + chronic specialization included",
+        "cta": "Subscribe now"
+      }
+    },
+    "coverage": {
+      "title": "Complete mutual insurance coverage",
+      "subtitle": "In addition to chronic disease specialization",
+      "general": {
+        "title": "General medicine",
+        "coverage": "100% conventional rate + €50 overruns/year"
+      },
+      "dental": {
+        "title": "Dental",
+        "coverage": "100% care, 300% prosthetics, €2000 orthodontics/child"
+      },
+      "optical": {
+        "title": "Optical",
+        "coverage": "€400/adult, €500/child every 2 years"
+      },
+      "hospital": {
+        "title": "Hospitalization",
+        "coverage": "Private room, €50/day allowance"
+      },
+      "alternative": {
+        "title": "Alternative medicine",
+        "coverage": "€300/year (osteo, acupuncture, chiro)"
+      }
+    },
+    "footer": {
+      "company": {
+        "title": "Solena",
+        "description": "The first solidarity e-mutual for chronic diseases"
+      },
+      "pathologies": {
+        "title": "Conditions",
+        "endometriosis": "Endometriosis",
+        "cardiovascular": "Cardiovascular",
+        "diabetes": "Diabetes",
+        "cancer": "Cancer",
+        "mentalHealth": "Mental Health"
+      },
+      "services": {
+        "title": "Services",
+        "complete": "Complete mutual insurance",
+        "teleconsult": "Teleconsultation",
+        "app": "Mobile app",
+        "support": "24/7 support"
+      },
+      "legal": {
+        "title": "Legal",
+        "privacy": "Privacy policy",
+        "terms": "Terms and conditions",
+        "cookies": "Cookie management",
+        "contact": "Contact"
+      },
+      "copyright": "© 2024 Solena. All rights reserved."
+    }
+  }

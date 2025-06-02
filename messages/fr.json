@@ -1,0 +1,182 @@
+{
+    "nav": {
+      "pathologies": "Pathologies",
+      "pricing": "Tarifs",
+      "simulator": "Simulateur",
+      "partners": "Partenaires",
+      "contact": "Contact",
+      "joinSolena": "Rejoindre Solena"
+    },
+    "hero": {
+      "title": "La mutuelle qui",
+      "titleHighlight": "révolutionne",
+      "titleEnd": "la santé chronique",
+      "subtitle": "Mutuelle complète + 100% santé pour vos maladies chroniques. Plus jamais d'avance de frais pour l'endométriose, diabète, maladies cardiovasculaires.",
+      "stats": {
+        "patients": "Malades chroniques en France",
+        "advance": "D'avance de frais",
+        "reimbursement": "Pour être remboursé"
+      },
+      "cta": "Calculer ma cotisation"
+    },
+    "pathologies": {
+      "title": "Pathologies prises en charge",
+      "subtitle": "Couverture spécialisée pour vos maladies chroniques en plus d'une mutuelle complète",
+      "endometriosis": {
+        "title": "Endométriose",
+        "description": "Chirurgies spécialisées, PMA, suivi gynécologique intensif",
+        "coverage": "15 000€/an"
+      },
+      "cardiovascular": {
+        "title": "Cardiovasculaire",
+        "description": "Cardiologie, rééducation cardiaque, examens spécialisés",
+        "coverage": "12 000€/an"
+      },
+      "diabetes": {
+        "title": "Diabète",
+        "description": "Matériel de suivi, consultations spécialisées, podologie",
+        "coverage": "8 000€/an"
+      },
+      "cancer": {
+        "title": "Cancer",
+        "description": "Oncologie, chimiothérapie, suivi post-traitement",
+        "coverage": "20 000€/an"
+      },
+      "mentalHealth": {
+        "title": "Santé mentale",
+        "description": "Psychothérapie, psychiatrie, thérapies de groupe",
+        "coverage": "6 000€/an"
+      },
+      "chronic": {
+        "title": "Maladies chroniques",
+        "description": "Fibromyalgie, MICI, maladies auto-immunes",
+        "coverage": "10 000€/an"
+      },
+      "covered": "Pris en charge"
+    },
+    "pricing": {
+      "title": "Tarifs transparents et solidaires",
+      "subtitle": "Cotisations selon vos revenus, couverture complète incluse",
+      "essential": {
+        "name": "Essentiel",
+        "price": "60€",
+        "period": "/mois",
+        "features": [
+          "Mutuelle complète (médecin, dentaire, optique)",
+          "Téléconsultation 24h/7j",
+          "Tiers payant généralisé",
+          "Application mobile",
+          "Chat avec conseillers santé"
+        ]
+      },
+      "comfort": {
+        "name": "Confort",
+        "price": "95€",
+        "period": "/mois",
+        "recommended": "RECOMMANDÉ",
+        "features": [
+          "Tout l'Essentiel inclus",
+          "Pack pathologie chronique au choix",
+          "Médecines douces (500€/an)",
+          "Chambre individuelle",
+          "Accompagnement personnalisé"
+        ]
+      },
+      "premium": {
+        "name": "Premium",
+        "price": "165€",
+        "period": "/mois",
+        "features": [
+          "Tout le Confort inclus",
+          "Tous les packs pathologies",
+          "Dépassements d'honoraires illimités",
+          "Concierge santé",
+          "Coaching nutrition/sport"
+        ]
+      },
+      "cta": "Choisir cette formule"
+    },
+    "simulator": {
+      "title": "Calculez votre cotisation personnalisée",
+      "subtitle": "Tarification solidaire selon vos revenus et besoins",
+      "income": {
+        "label": "Revenus mensuels nets",
+        "placeholder": "Ex: 2500€"
+      },
+      "family": {
+        "label": "Situation familiale",
+        "single": "Célibataire",
+        "couple": "En couple",
+        "family": "Famille avec enfants"
+      },
+      "pathology": {
+        "label": "Pathologie chronique (optionnel)",
+        "none": "Aucune pathologie chronique",
+        "endometriosis": "Endométriose",
+        "cardiovascular": "Maladies cardiovasculaires",
+        "diabetes": "Diabète",
+        "cancer": "Cancer",
+        "mentalHealth": "Santé mentale",
+        "other": "Autres maladies chroniques"
+      },
+      "result": {
+        "title": "Votre cotisation Solena",
+        "period": "/mois",
+        "includes": "Mutuelle complète + spécialisation chronique incluse",
+        "cta": "Souscrire maintenant"
+      }
+    },
+    "coverage": {
+      "title": "Couverture mutuelle complète",
+      "subtitle": "En plus de la spécialisation maladies chroniques",
+      "general": {
+        "title": "Médecine générale",
+        "coverage": "100% tarif conventionné + 50€ dépassements/an"
+      },
+      "dental": {
+        "title": "Dentaire",
+        "coverage": "Soins 100%, prothèses 300%, orthodontie 2000€/enfant"
+      },
+      "optical": {
+        "title": "Optique",
+        "coverage": "400€/adulte, 500€/enfant tous les 2 ans"
+      },
+      "hospital": {
+        "title": "Hospitalisation",
+        "coverage": "Chambre individuelle, forfait 50€/jour"
+      },
+      "alternative": {
+        "title": "Médecines douces",
+        "coverage": "300€/an (ostéo, acupuncture, chiro)"
+      }
+    },
+    "footer": {
+      "company": {
+        "title": "Solena",
+        "description": "La première e-mutuelle solidaire pour les maladies chroniques"
+      },
+      "pathologies": {
+        "title": "Pathologies",
+        "endometriosis": "Endométriose",
+        "cardiovascular": "Cardiovasculaire",
+        "diabetes": "Diabète",
+        "cancer": "Cancer",
+        "mentalHealth": "Santé mentale"
+      },
+      "services": {
+        "title": "Services",
+        "complete": "Mutuelle complète",
+        "teleconsult": "Téléconsultation",
+        "app": "Application mobile",
+        "support": "Support 24h/7j"
+      },
+      "legal": {
+        "title": "Légal",
+        "privacy": "Politique de confidentialité",
+        "terms": "Conditions générales",
+        "cookies": "Gestion des cookies",
+        "contact": "Contact"
+      },
+      "copyright": "© 2024 Solena. Tous droits réservés."
+    }
+  }
