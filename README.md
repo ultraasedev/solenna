@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://yourdomain.com/logo-solenna.png" alt="Logo Solènna" width="180" />
+  <img src="https://ibb.co/TxYtqhmF" alt="Logo Solènna" width="180" />
   <h1>🌸 Solènna</h1>
   <h3>La mutuelle pensée pour les vies avec maladies chroniques</h3>
   <p>Se soigner autrement. Vivre pleinement.</p>
